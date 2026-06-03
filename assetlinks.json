@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sarjan.cutoptimizer",
+      "sha256_cert_fingerprints": [
+        "56:F2:1B:39:EA:A3:02:03:FF:D8:FB:60:49:0C:DD:52:57:B6:A6:D6:15:44:D9:89:66:0C:0E:15:A6:B3:53:D9"
+      ]
+    }
+  }
+]
