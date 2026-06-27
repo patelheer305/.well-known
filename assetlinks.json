@@ -10,5 +10,17 @@
         "56:F2:1B:39:EA:A3:02:03:FF:D8:FB:60:49:0C:DD:52:57:B6:A6:D6:15:44:D9:89:66:0C:0E:15:A6:B3:53:D9"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.patelheer305.twa",
+      "sha256_cert_fingerprints": [
+        "AB:57:32:47:DF:68:A4:8B:23:C3:F0:C2:07:5D:75:22:41:64:90:A3:F6:60:99:7A:B3:E1:12:54:1A:6F:7A:28"
+      ]
+    }
   }
 ]
