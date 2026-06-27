@@ -7,7 +7,7 @@
       "namespace": "android_app",
       "package_name": "com.sarjan.cutoptimizer",
       "sha256_cert_fingerprints": [
-        "56:F2:1B:39:EA:A3:02:03:FF:D8:FB:60:49:0C:DD:52:57:B6:A6:D6:15:44:D9:89:66:0C:0E:15:A6:B3:53:D9"
+        "56:f2:1b:39:ea:a3:02:03:ff:d8:fb:60:49:0c:dd:52:57:b6:a6:d6:15:44:d9:89:66:0c:0e:15:a6:b3:53:d9"
       ]
     }
   },
@@ -19,7 +19,7 @@
       "namespace": "android_app",
       "package_name": "io.github.patelheer305.twa",
       "sha256_cert_fingerprints": [
-        "AB:57:32:47:DF:68:A4:8B:23:C3:F0:C2:07:5D:75:22:41:64:90:A3:F6:60:99:7A:B3:E1:12:54:1A:6F:7A:28"
+        "ab:57:32:47:df:68:a4:8b:23:c3:f0:c2:07:5d:75:22:41:64:90:a3:f6:60:99:7a:b3:e1:12:54:1a:6f:7a:28"
       ]
     }
   }
